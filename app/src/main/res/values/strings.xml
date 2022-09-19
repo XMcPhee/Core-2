@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Core-2</string>
+    <string name="textView">Train Station</string>
+    <string name="textViewScore">3</string>
+    <string name="riverString">River</string>
+    <string name="riverScore">4</string>
+    <string name="parkText">Park</string>
+    <string name="parkScore">2</string>
+    <string name="universityText">University</string>
+    <string name="universityScore">5</string>
+    <string name="contentDescription">ratingBar</string>
+</resources>
